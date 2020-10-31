@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEtqsmDDsTTcQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=TYkkb-YkHqyXw3eOmSRCeSrlvV3WXCTh05HAI3oiRjM" align="center" />
+<img src="./background.jpg" align="center" />
 <h1 align="center">
   Welcome to Mikey's world
 </h1>
