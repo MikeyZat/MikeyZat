@@ -15,8 +15,8 @@
   * :money_with_wings: Currently employed at : **IBM Poland** <img width=20 height=20 src="https://media-exp1.licdn.com/dms/image/C4E0BAQGfKOtAsJ7gOQ/company-logo_200_200/0?e=1606348800&v=beta&t=nJ3ERrOGdmRcTnPWNfTFVIESISGYgc9QF3G1Hg18WKo" />
   * :computer: Position: **React.js Software Engineer**
   * :watch: Experience: **since *05.2019* till now**
-  * :sushi: Currently working on: **improving Python skills**
-  * :chart: Future goals: **Data Science - I'm coming...**
+  * :sushi: Currently working on: **Engineer's Theorem**
+  * :chart: Future goals: **Bring AI power to improve User Interface development...**
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MikeyZat&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
