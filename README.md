@@ -11,8 +11,8 @@
 
 <h2>:notebook: Facts that might interest you </h2>
 
-  * :mortar_board: Current university status: **3rd year of Computer Science Engineer Degree**
-  * :money_with_wings: Currently employed at : **IBM Poland** <img width=20 height=20 src="https://media-exp1.licdn.com/dms/image/C4E0BAQGfKOtAsJ7gOQ/company-logo_200_200/0?e=1606348800&v=beta&t=nJ3ERrOGdmRcTnPWNfTFVIESISGYgc9QF3G1Hg18WKo" />
+  * :mortar_board: Current university status: **Finishing Computer Science Engineer Degree**
+  * :money_with_wings: Currently employed at : **SoftwareMansion**
   * :computer: Position: **React.js Software Engineer**
   * :watch: Experience: **since *05.2019* till now**
   * :sushi: Currently working on: **Engineer's Theorem**
