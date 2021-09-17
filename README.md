@@ -12,10 +12,10 @@
 <h2>:notebook: Facts that might interest you </h2>
 
   * :mortar_board: Current university status: **Finishing Computer Science Engineer Degree**
-  * :money_with_wings: Currently employed at : **SoftwareMansion**
+  * :money_with_wings: Currently employed at : **[Software Mansion](https://swmansion.com/)**
   * :computer: Position: **React.js Software Engineer**
-  * :watch: Experience: **since *05.2019* till now**
-  * :sushi: Currently working on: **Engineer's Theorem**
+  * :watch: Experience: **Changing the world since *05.2019***
+  * :sushi: Currently working on: **Engineer's Theorem & [Async Canvas](canvas.async.art)**
   * :chart: Future goals: **Bring AI power to improve User Interface development...**
 
 
