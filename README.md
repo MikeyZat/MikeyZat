@@ -15,7 +15,7 @@
   * :money_with_wings: Currently employed at : **[Software Mansion](https://swmansion.com/)**
   * :computer: Position: **React.js Software Engineer**
   * :watch: Experience: **Changing the world since *05.2019***
-  * :sushi: Currently working on: **Engineer's Theorem & [Async Canvas](canvas.async.art)**
+  * :sushi: Currently working on: **Engineer's Theorem & [Async Canvas](https://canvas.async.art)**
   * :chart: Future goals: **Bring AI power to improve User Interface development...**
 
 
