@@ -11,7 +11,7 @@
 
 <h2>:notebook: Facts that might interest you </h2>
 
-  * :mortar_board: Current university status: **Computer Science Engineer Degree**
+  * :mortar_board: Current university status: **Computer Science graduate & taking the Master course**
   * :money_with_wings: Currently employed at: **[Software Mansion](https://swmansion.com/)**
   * :computer: Position: **FullStack Engineer (React.js & Node.js)**
   * :watch: Experience: **Changing the world since *05.2019***
