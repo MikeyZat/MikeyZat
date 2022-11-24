@@ -13,9 +13,9 @@
 
   * :mortar_board: Current university status: **Computer Science graduate & taking the Master course**
   * :money_with_wings: Currently employed at: **[Software Mansion](https://swmansion.com/)**
-  * :computer: Position: **FullStack Engineer (React.js & Node.js)**
+  * :computer: Position: **FullStack Engineer (React + React Native & Node.js)**
   * :watch: Experience: **Changing the world since *05.2019***
-  * :sushi: Currently working on: **[Async Canvas](https://canvas.async.art) & [Async Art](https://async.art)**
+  * :sushi: Currently working on: **[Kiwi - Music with Friends](https://apps.apple.com/us/app/kiwi-music-with-your-friends/id1614352817)
   * :chart: Future goals: **Bring AI power to improve User Interface development...**
 
 
